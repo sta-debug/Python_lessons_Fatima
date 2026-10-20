@@ -181,3 +181,4 @@ st2= " освещая робкие шаги уходящей осени"
 #     print("А")
 # else:
 #     print("Error ,not input!")
+
