@@ -162,22 +162,22 @@ st2= " освещая робкие шаги уходящей осени"
 
 
 # grate = int(input("Enter your grate:"))
-grate = 95
-if grate<25 :
-    print("F")
-elif  25 <=grate<  45:  
-    print("E")
+# grate = 95
+# if grate<25 :
+#     print("F")
+# elif  25 <=grate<  45:  
+#     print("E")
 
-elif  45  <=grate< 50:  
-    print("D")
+# elif  45  <=grate< 50:  
+#     print("D")
 
-elif  50 <grate< 60 : 
-    print("C")
+# elif  50 <grate< 60 : 
+#     print("C")
 
-elif  60  <=grate<80:  
-    print("B")
+# elif  60  <=grate<80:  
+#     print("B")
 
-elif  80 <=grate: 
-    print("А")
-else:
-    print("Error ,not input!")
+# elif  80 <=grate: 
+#     print("А")
+# else:
+#     print("Error ,not input!")

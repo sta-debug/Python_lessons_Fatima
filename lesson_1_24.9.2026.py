@@ -11,7 +11,7 @@
 # var_int = input()
 # print(var_int)
 
-name = input("Your name?:")
-born = int(input("When you:"))
-year = 2026 - born
-print(f"name: {name},age: {year}")
+# name = input("Your name?:")
+# born = int(input("When you:"))
+# year = 2026 - born
+# print(f"name: {name},age: {year}")
