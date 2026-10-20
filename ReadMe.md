@@ -6,5 +6,5 @@
 Normal text
 **NURBOOL**
 *NURBOOL*
---Delete-text--
+~~Delete-text~~
 
