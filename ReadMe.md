@@ -18,9 +18,9 @@ Normal text
 
 [run the project](https://github.com/sta-debug/Python_lessons_Fatima/blob/main/lesson_1_24.9.2026.py)
 
-tun the command 'this command'
+tun the command `this command`
 
-'''bash
+```bash
 nmp install
 nmp run
-'''
+```
